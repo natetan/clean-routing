@@ -2,9 +2,9 @@
   "name": "clean-routing",
   "version": "1.0.0",
   "description": "Clean API routing with Node & Express",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yulongtan/clean-routing/issues"
   },
-  "homepage": "https://github.com/yulongtan/clean-routing#readme"
+  "homepage": "https://github.com/yulongtan/clean-routing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
