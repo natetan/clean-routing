@@ -1,0 +1,19 @@
+{
+  "name": "clean-routing",
+  "version": "1.0.0",
+  "description": "Clean API routing with Node & Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulongtan/clean-routing.git"
+  },
+  "author": "Yulong Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yulongtan/clean-routing/issues"
+  },
+  "homepage": "https://github.com/yulongtan/clean-routing#readme"
+}
